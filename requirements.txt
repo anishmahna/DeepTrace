@@ -1,0 +1,23 @@
+# Machine Learning & Deep Learning
+torch
+torchvision
+timm
+numpy
+opencv-python
+Pillow
+scikit-learn
+
+# Web Backend
+flask
+flask-cors
+requests
+
+# Web Frontend / APIs
+express
+node-fetch
+
+# Blockchain
+web3
+
+# Utilities
+tqdm
